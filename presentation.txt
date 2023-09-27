@@ -1,0 +1,9 @@
+prénom : Clément
+nom : Goy
+âge : 21 ans 
+sexe : homme
+taille : 1,75m
+Loisirs : utiliser git et github pour m'amuser
+artiste pref : benoit Saint-Denis
+lieu de naissance : Ambilly
+film pref : green book sur les routes du sud.
